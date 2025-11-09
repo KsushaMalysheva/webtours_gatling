@@ -1,0 +1,10 @@
+[0m[[0m[0mdebug[0m] [0m[0mjavaOptions: Vector(-Dsbt.ipcsocket.tmpdir=C:\Users\USER\AppData\Local\Temp\.sbt2bf91e3d\ipcsocket, -Dswoval.tmpdir=C:\Users\USER\AppData\Local\Temp\.sbt2bf91e3d\swoval, -Djna.nosys=true, -Dlog4j.ignoreTCL=true, -Djnidispatch.path=C:\Users\USER\AppData\Local\Temp\jna-2614219\jna13342721752239394433.dll, -Djna.loaded=true, -Dscala.ext.dirs=C:\Users\USER\.sbt\1.0\java9-rt-ext-oracle_corporation_17_0_12, -XX:+HeapDumpOnOutOfMemoryError, -XX:MaxInlineLevel=20, -XX:MaxTrivialSize=12, -Xmx1G, --add-opens=java.base/java.lang=ALL-UNNAMED, --add-opens=java.base/jdk.internal.misc=ALL-UNNAMED)[0m
+[0m[[0m[0mdebug[0m] [0m[0mForking tests - parallelism = false[0m
+[0m[[0m[0mdebug[0m] [0m[0mCreate a single-thread test executor[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunner for io.gatling.sbt.GatlingFramework produced 1 initial tasks for 1 tests.[0m
+[0m[[0m[0mdebug[0m] [0m[0m  Running TaskDef(webtours.SearchForMaximum, sbt.ForkMain$SubclassFingerscan@58ceff1, false, [SuiteSelector])[0m
+[0m[[0m[0minfo[0m] [0m[0mSimulation SearchForMaximum successful.[0m
+[0m[[0m[0mdebug[0m] [0m[0m    Produced 0 nested tasks and 1 events.[0m
+[0m[[0m[0minfo[0m] [0m[0mSimulation(s) execution ended.[0m
+[0m[[0m[0mdebug[0m] [0m[0mPassed tests:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	webtours.SearchForMaximum[0m
